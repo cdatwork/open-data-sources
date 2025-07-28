@@ -42,3 +42,6 @@
 ## Lending/Borrowing Rates for Stocks
 [IBorrowDesk](https://www.iborrowdesk.com/)  
 [chartexchange: Borrow Fees over time](https://chartexchange.com/symbol/nyse-gme/borrow-fee/)  
+
+## Bitcoin Treasury Companies (top)
+[BITCOINTREASURIES](https://bitcointreasuries.net/)  
