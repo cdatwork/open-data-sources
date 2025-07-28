@@ -35,6 +35,7 @@
 [Buy/Sell Ratios (on Fidelity's platform](https://digital.fidelity.com/prgw/digital/research/src)  
 [chartexchange: Short Volume for a specific stock](https://chartexchange.com/symbol/nyse-gme/short-volume/)  
 [chartexchange: Trading Volume breakout for each exchange](https://chartexchange.com/symbol/nyse-gme/exchange-volume/)  
+[Trade Halts](https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts#)  
 
 ## FTD (fails-to-deliver) data
 [chartexchange: FTD data](https://chartexchange.com/symbol/nyse-gme/failure-to-deliver/)
