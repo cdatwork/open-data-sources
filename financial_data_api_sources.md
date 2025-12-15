@@ -29,9 +29,8 @@ alpha_vantage
 nasdaqdatalink  
 `pip install nasdaq-data-link`
 
-public (doesn't have a Python package that I could find; offers rebates on some trades)
-
 ### Brokerage-based data
 * Tradier (no official python package)
 * Alpaca `pip install alpaca-py`
 * Interactive Brokers `pip install ibapi`
+* public (doesn't have a Python package that I could find; offers rebates on some trades)
