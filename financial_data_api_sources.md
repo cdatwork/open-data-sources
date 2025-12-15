@@ -12,7 +12,7 @@ eodhd
 finnhub  
 `pip install finnhub-python`
 
-polygon  
+massive (formerly polygon)
 `pip install polygon-api-client`
 
 marketstack (no official python package)  
@@ -28,6 +28,8 @@ alpha_vantage
 
 nasdaqdatalink  
 `pip install nasdaq-data-link`
+
+public (doesn't have a Python package that I could find; offers rebates on some trades)
 
 ### Brokerage-based data
 * Tradier (no official python package)
